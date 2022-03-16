@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorian Atashi</h1>
-<h3 align="center">A passionate frontend developer from Vienna</h3>
+<h3 align="center">A passionate frontend developer working at Axians Infoma</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
